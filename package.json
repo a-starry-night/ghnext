@@ -8,7 +8,7 @@
   "main": "vite.config.js",
   "devDependencies": {},
   "scripts": {
-    "test": "npm run dev"
+    "test": "vite"
   },
   "repository": {
     "type": "git",
