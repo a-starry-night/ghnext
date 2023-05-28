@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "git": "^0.1.5"
-  }
+  },
+  "name": "dist",
+  "version": "1.0.0",
+  "description": "ghnest",
+  "main": "vite.config.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-starry-night/ghnextdev.git"
+  },
+  "author": "a-starry-night",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-starry-night/ghnextdev/issues"
+  },
+  "homepage": "https://github.com/a-starry-night/ghnextdev#readme"
 }
